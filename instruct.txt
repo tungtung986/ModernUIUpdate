@@ -1,0 +1,14 @@
+Hello Everyone!
+How to Use
+Create a new Windows Forms (.NET Framework) project.
+.NET Framework 4.8.2 is recommended, but other compatible .NET Framework versions should also work.
+Add ModernUI.Controls.dll to your Toolbox.
+In the Toolbox, find ModernPanel and drag it onto your Form.
+If the control does not appear or does not display correctly, copy the "you" folder that I included next to the API/DLL files and paste it into your application's output folder (the same folder as your executable, e.g. bin\Debug or bin\Release).
+Build and run the project.
+
+That's it!
+
+Thank you for downloading and using my project. I hope you enjoy it. If you encounter any issues or bugs, please let me know so I can improve future versions.
+
+Thank you for your support! ❤️
